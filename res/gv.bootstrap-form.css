@@ -1,0 +1,119 @@
+﻿/*!
+
+ */
+
+body {
+    background-color: #f5f5f5;
+}
+
+
+
+
+
+
+.viewdoc {
+  position: relative;
+  margin: 25px;
+  padding: 15px 10px;
+  background-color: #fff;
+}
+
+.viewerror {
+  position: relative;
+  margin: 5px;
+  
+ 
+}
+
+.hoverComponent {
+    border: 1px solid #ddd !important;
+    background-color: rgba(3, 14, 27, 0.03);
+}
+
+.shadow {
+/*-moz-box-shadow: 0 0 10px 5px #999;
+-webkit-box-shadow: 0 0 10px 5px #999;*/
+border: #ddd solid 1px;
+margin: 20px;
+background-color: #ffffff;
+padding: 20px;
+}
+
+
+    .brdbot {
+    border-color: #f5f5f5;
+    border-bottom: 1px solid #ddd !important;
+}
+
+
+
+.brand {
+    margin-left: 5px;
+    margin-top:5px; 
+    margin-right: 5px;}
+
+
+
+
+
+
+
+
+label {
+    font-weight: normal;
+}
+
+.form-horizontal .control-label-left{
+text-align:left;
+}
+
+
+span.req {
+    display: inline;
+    float: none;
+    color: red !important;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.form-group {
+    margin: 10px;
+}
+
+/*.ps-col {
+	padding: 4px; 
+}*/
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.form-horizontal .form-group {
+ margin-left: 0px;
+ margin-right: 0px;
+}
+
+span.error {
+    color: red;
+    
+}
+
+span.error > ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+
+.k-autocomplete, .k-combobox, .k-datepicker, .k-timepicker, .k-datetimepicker, .k-colorpicker, .k-numerictextbox, .k-dropdown, .k-selectbox, .k-textbox {
+   width: 100%;
+}
+
+.k-header {
+    background-color: transparent !important;
+}
+
+.k-widget {
+    padding:0px;
+}
