@@ -5,22 +5,6 @@ X-Wing VR Simulator made in Unity XR & SteamVR API
 *Unity ver. 2019.2.6f1
 SteamVR ver. 1.11.11*
 
-###  Developer Instructions
-
-0. Make sure that git lfs is installed [https://git-lfs.github.com/]
-1. Clone the repository 'git clone https://github.com/Dylan-Stout/Project-Stardust.git'
-2. Install latest Unity Hub [https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe]
-3. Install SteamVR [https://store.steampowered.com/app/250820/SteamVR/]
-4. Install Blender 2.8 (for importing models) [https://www.blender.org/download/Blender2.82/blender-2.82a-windows64.msi/]
-5. Install 3ds Max (free trial may work, if not try educational license ) [https://www.autodesk.com/products/3ds-max/overview?support=ADVANCED&plc=3DSMAX&term=1-YEAR&quantity=1]
-6. Install Unity version 2019.2.6f1 [https://unity3d.com/get-unity/download/archive]
-7. Open Unity Hub and add the Unity installation to the hub via: Installs->Locate..  and then navigate to the directory where 2019.2.6f1 version of unity is installed.
-8. In Unity Hub add the project to hub via: Projects->Add... and navigate to the directory where Project Stardust was cloned from git
-9. Open project by clicking on "Project Stardust" in Unity Hub->Projects (using Unity versions other than 2019.2.6f1 are not currently supported, use at own risk)
-10. Allow the project to compile and build project (this may take quite some time first time opening)
-11. Make sure the following packages are installed in Package Manager (Window->Package Manager...)
-![](res/dependencies.png)  
-
 ###  User Instructions
 
 Current stable release : 0.8.1 / May 9, 2020 - Created by Dylan Stout
@@ -48,13 +32,13 @@ Ultra - 4k Textures, 4x MSAA, Bloom highest quality, medium view distance shadow
 
 ### Controller Layout (Defaults)
 
-Select a tab for your specific system for instructions on controls
+The following have controls mappings:
 
-*   [Oculus Touch](#tabContent8)
-*   [Valve Index Knuckles](#tabContent9)
-*   [HTC Vive Wands](#tabContent10)
-*   [WMR Motion Controllers](#tabContent23)
-*   [HOTAS (Thrustmaster X)](#tabContent24)
+*   [Oculus Touch]()
+*   [Valve Index Knuckles]()
+*   [HTC Vive Wands]()
+*   [WMR Motion Controllers]()
+*   [HOTAS (Thrustmaster X)]()
 
 ![](res/oculus_touch_controller.png)
 
