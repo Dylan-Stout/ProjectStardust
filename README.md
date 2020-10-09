@@ -1,6 +1,6 @@
 # Project Stardust
 
-X-Wing VR Simulator made in Unity XR & SteamVR API
+X-Wing VR Simulator made in Unity for SteamVR enabled devices.
 
 *Unity ver. 2019.2.6f1
 SteamVR ver. 1.11.11*
